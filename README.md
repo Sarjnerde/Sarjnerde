@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Şarjnerde!
 
-![Şarjnerde Logo](<img src="[link-to-your-logo](https://www.sarjnerde.com/wp-content/uploads/2023/10/logo-01-2.png)" alt="ŞarjNerde Logo" width="200" />) <!-- Logo linkini buraya ekleyin -->
+<img src="[link-to-your-logo](https://www.sarjnerde.com/wp-content/uploads/2023/10/logo-01-2.png)" alt="ŞarjNerde Logo" width="200" /> <!-- Logo linkini buraya ekleyin -->
 
 ## Hakkımızda
 Şarjnerde, Türkiye'deki tüm elektrikli araç şarj istasyonlarını tek bir uygulama altında birleştiren yenilikçi bir platformdur. Kullanıcılar, şarj istasyonlarını görüntüleyebilir, şarj işlemi başlatabilir ve kolayca ödeme yapabilir. Müşterilerimize çağrı desteği, canlı destek ve saha desteği gibi hizmetler sunarak, elektrikli araç kullanıcılarının ihtiyaçlarına cevap veriyoruz.
